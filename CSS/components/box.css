@@ -1,0 +1,10 @@
+.box {
+    display: inline-block;
+    background-color: #7c5e99;
+    text-align: center;
+    width: 500px;
+    box-shadow: 5px 5px 3px #000;
+    border-radius: 10px 100px / 120px 100px;
+    padding: 42px 0;
+    border: none;
+}
