@@ -1,9 +1,7 @@
-.button-header {
-    display: inline-block;
+.button-body {
     padding: 20px;
     padding-left: 10px;
     padding-right: 10px;
-    line-height: 45px;
     height: 45px;
     color: #FFF;
     background-color: #f25a70;
