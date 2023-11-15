@@ -4,3 +4,9 @@
     font-size: 45px;
     text-shadow: 3px 3px 2px #000;
 }
+
+.texto-body.-second {
+    color: #000;
+    text-shadow: none;
+    text-align: center;
+}
