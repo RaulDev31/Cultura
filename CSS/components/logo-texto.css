@@ -1,0 +1,11 @@
+.logo-texto {
+    display: flex;
+    color: #FFFF;
+    padding: 15px;
+    margin-right: 310px;
+    font-size: 35px;
+    font-weight: 500;
+    font-family: Fira code, cursive;
+    text-shadow: 2px 2px 1px #000;
+    margin-top: 5px;
+}
