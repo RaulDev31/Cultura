@@ -1,6 +1,6 @@
 .box {
     display: inline-block;
-    background-color: #7c5e99;
+    background-image: linear-gradient(to top left, #420879, #7c5e99, #8111eb);
     text-align: center;
     width: 630px;
     box-shadow: 4px 5px 3px #000;
