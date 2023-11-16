@@ -18,8 +18,16 @@
 
 .texto {
     margin-top: 20px;
-    text-align: center;
+    text-align: justify;
     color: #FFF;
     font-size: 20px;
     font-family: Fira code, Helvetica, sans-serif;
+}
+
+.texto.-second {
+    text-align: center;
+    color: #000;
+    font-family: cursive, sans-serif;
+    font-size: 45px;
+    text-shadow: none;
 }

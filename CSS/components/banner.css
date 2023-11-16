@@ -1,9 +1,9 @@
 .banner {
     background-image: url(../../IMG/IMG_5719.jpg);
-    height: 500px;
+    height: 600px;
     background-size: 100%;
     background-repeat: no-repeat;
-    border-bottom: 5px solid #000;
+    border-bottom: 10px solid #000;
 }
 
 .banner .wrapper {
